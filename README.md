@@ -14,3 +14,12 @@
     *off* - граф берется в формате `.json` из папки `graphs`, которая автоматически формируется при первом запросе с ключом *on*
 1. фильтры для визуализации (*sex* / *city* / *education*)
 ## Пример использования
+Команда:
+
+`main.py 248183407 on sex`
+
+![image](https://user-images.githubusercontent.com/71013663/145713014-9b5dca60-ef58-44c8-bd39-6fd8cd29f95b.png)
+
+Результат визуализации:
+
+![image](https://user-images.githubusercontent.com/71013663/145713060-3ae86ad1-f6ea-4094-90b5-6d1ad9539af0.png)
